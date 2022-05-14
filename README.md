@@ -1,4 +1,4 @@
-# GUI-RPS-Game
+# GUI RPS Game
 
 A simple RPS Game made using ImGui.
 
