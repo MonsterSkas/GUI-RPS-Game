@@ -29,5 +29,5 @@ GLFW is written in C and supports Windows, macOS, X11 and Wayland.
 
 ## External dependencies
 
-[ImGui](https://github.com/ocornut/imgui)
-[GLFW](https://www.glfw.org/)
+- [ImGui](https://github.com/ocornut/imgui)
+- [GLFW](https://www.glfw.org/)
